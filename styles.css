@@ -1,0 +1,14 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400&display=swap');
+
+
+.navEdit {
+    background-color: #00ff5573;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+
+.createForm {
+    width: 50vw;
+    min-width: 300px;
+}
